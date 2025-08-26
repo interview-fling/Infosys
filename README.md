@@ -11,36 +11,36 @@
 
 | S.No. | Question | Importance | Link |
 |-------|----------|------------|------|
-| 1 | Second maximum in an array | Medium |  |
-| 2 | Java 8 streams - filter operation | High |  |
-| 3 | Character frequency in string using hashmap | Medium |  |
-| 4 | OOPs concept | High |  |
-| 5 | Database rollback scenario | Medium |  |
-| 6 | @Transactional in spring boot | High |  |
-| 7 | Filtering and masking sensitive data | Medium |  |
-| 8 | AOP usecase | High |  |
-| 9 | Exception handling | High |  |
+| 1 | Second maximum in an array | 5 |  |
+| 2 | Java 8 streams - filter operation | 5 |  |
+| 3 | Character frequency in string using hashmap | 5 |  |
+| 4 | OOPs concept | 5 |  |
+| 5 | Database rollback scenario | 3 |  |
+| 6 | @Transactional in spring boot | 3 |  |
+| 7 | Filtering and masking sensitive data | 2 |  |
+| 8 | AOP usecase | 2 |  |
+| 9 | Exception handling | 5 |  |
 
 ### Design, Architecture and Project Insights
 
 | S.No. | Question | Importance | Link |
 |-------|----------|------------|------|
-| 1 | Singleton design pattern | High |  |
-| 2 | Move all zeros to start using java 8 (DSA) | Medium |  |
-| 3 | CRUD with spring boot (Annotations) | High |  |
-| 4 | Monolithic vs Microservices | High |  |
-| 5 | Agile & Deployment Practices | Medium |  |
+| 1 | Singleton design pattern | 5 |  |
+| 2 | Move all zeros to start using java 8 (DSA) | 3 |  |
+| 3 | CRUD with spring boot (Annotations) | 5 |  |
+| 4 | Monolithic vs Microservices | 5 |  |
+| 5 | Agile & Deployment Practices | 5 |  |
 
 ### Takeaway
 
 | S.No. | Question | Importance | Link |
 |-------|----------|------------|------|
-| 1 | Master Java 8: Streams, Optionals, Lambdas, Functional Interfaces | High |  |
-| 2 | Know Spring Boot inside-out: AOP, @Transactional, Exception Handling | High |  |
-| 3 | Prepare common DSA patterns: sorting, filtering, hashmap-based logic | High |  |
-| 4 | Be fluent in design patterns: Singleton, Factory, Strategy | High |  |
-| 5 | Know your deployment stack: Git, Jenkins, Docker, Kubernetes | High |  |
-| 6 | Don’t forget soft skills: how you explain things matters! | Medium |  |
+| 1 | Master Java 8: Streams, Optionals, Lambdas, Functional Interfaces | 5 |  |
+| 2 | Know Spring Boot inside-out: AOP, @Transactional, Exception Handling | 5 |  |
+| 3 | Prepare common DSA patterns: sorting, filtering, hashmap-based logic | 5 |  |
+| 4 | Be fluent in design patterns: Singleton, Factory, Strategy | 5 |  |
+| 5 | Know your deployment stack: Git, Jenkins, Docker, Kubernetes | 4 |  |
+| 6 | Don’t forget soft skills: how you explain things matters! | 3 |  |
 
 ## Questions
 
@@ -48,33 +48,33 @@
 
 | S.No. | Question | Importance | Link |
 |-------|----------|------------|------|
-| 1 | What is OOP and what are the advantages? | High |  |
-| 2 | What is string immutable? | Medium |  |
-| 3 | What is a class that supports string mutable? | Medium |  |
-| 4 | Difference between String and String Buffer? | Medium |  |
-| 5 | Difference Between Array and List? | Medium |  |
-| 6 | What are the classes implemented using Array and Lists? | Medium |  |
-| 7 | Difference Between List, Set, and Map? | High |  |
-| 8 | What is WeakHashMap? | Medium |  |
-| 9 | What type of inheritance supported in java? | Medium |  |
-| 10 | What are the Entity Relationships supported in Java-like one-to-one? | Medium |  |
-| 11 | Does java 8 support multiple interfaces? | Medium |  |
-| 12 | Can you define a method in the interface? | Medium |  |
-| 13 | What is Static Overloading and Dynamic Overloading? | Medium |  |
-| 14 | Lambdas | High |  |
-| 15 | Static & final keywords | Medium |  |
-| 16 | StringBuilder & StringBuffer | Medium |  |
-| 17 | User Thread & Daemon Thread | Medium |  |
-| 18 | Runnable vs Callable | Medium |  |
-| 19 | Garbage collector | Medium |  |
+| 1 | What is OOP and what are the advantages? | 5 |  |
+| 2 | What is string immutable? | 5 |  |
+| 3 | What is a class that supports string mutable? | 3 |  |
+| 4 | Difference between String and String Buffer? | 5 |  |
+| 5 | Difference Between Array and List? | 5 |  |
+| 6 | What are the classes implemented using Array and Lists? | 5 |  |
+| 7 | Difference Between List, Set, and Map? | 5 |  |
+| 8 | What is WeakHashMap? | 3 |  |
+| 9 | What type of inheritance supported in java? | 2 |  |
+| 10 | What are the Entity Relationships supported in Java-like one-to-one? | 3 |  |
+| 11 | Does java 8 support multiple interfaces? | 2 |  |
+| 12 | Can you define a method in the interface? | 4 |  |
+| 13 | What is Static Overloading and Dynamic Overloading? | 3 |  |
+| 14 | Lambdas | 5 |  |
+| 15 | Static & final keywords | 5 |  |
+| 16 | StringBuilder & StringBuffer | 5 |  |
+| 17 | User Thread & Daemon Thread | 2 |  |
+| 18 | Runnable vs Callable | 3 |  |
+| 19 | Garbage collector | 4 |  |
 
 ### MySQL
 
 | S.No. | Question | Importance | Link |
 |-------|----------|------------|------|
-| 1 | How to add Constraints for an existing table (Syntax) | Medium |  |
-| 2 | Explain DML Operations | Medium |  |
-| 3 | What is a composite key? | Medium |  |
-| 4 | How to add and Drop a Foreign key? | Medium |  |
-| 5 | Explain joins? | High |  |
-| 6 | What happens if you use inner join with no conditions? | Medium |  |
+| 1 | How to add Constraints for an existing table (Syntax) | 3 |  |
+| 2 | Explain DML Operations | 3 |  |
+| 3 | What is a composite key? | 4 |  |
+| 4 | How to add and Drop a Foreign key? | 5 |  |
+| 5 | Explain joins? | 5 |  |
+| 6 | What happens if you use inner join with no conditions? | 5 |  |
