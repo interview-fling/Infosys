@@ -142,6 +142,7 @@
 | 16    | Rest Template                                                 | 5     |      |
 | 17    | How to enable debugging in spring boot                        | 5     |      |
 | 18    | MVC                                                          | 5       |      |
+| 19    | REST vs SOAP vs GRAPHQL                                                          | 5       |      |
 
 ### Review from people
 
