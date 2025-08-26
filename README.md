@@ -78,3 +78,73 @@
 | 4 | How to add and Drop a Foreign key? | 5 |  |
 | 5 | Explain joins? | 5 |  |
 | 6 | What happens if you use inner join with no conditions? | 5 |  |
+| 7 | What is Stored Procedure | 3 |  |
+| 8 | 2nd highest salary | 5 |  |
+
+
+
+### GIT
+
+| S.No. | Question                                   | Importance | Link |
+|-------|--------------------------------------------|------------|------|
+| 1     | What is Git?                               | High       |      |
+| 2     | Explain a few git commands?                | High       |      |
+| 3     | Explain few syntaxes for git commands?     | Medium     |      |
+| 4     | How to create a new branch?                | High       |      |
+
+### DSA
+
+| S.No. | Question                                                            | Importance | Link |
+|-------|---------------------------------------------------------------------|------------|------|
+| 1     | Swap 2 numbers                                                      | Medium     |      |
+| 2     | Swap 2 numbers without using third number                           | High       |      |
+| 3     | Convert decimal to binary                                           | High       |      |
+| 4     | Spiral traverse of matrix                                           | High       |      |
+| 5     | Rotate a matrix by 90 degrees                                       | High       |      |
+| 6     | Write a program for swapping of two arrays.                         | Medium     |      |
+| 7     | Write a program for swapping of two strings.                        | Medium     |      |
+| 8     | Write a program to convert the string from upper case to lower case.| Medium     |      |
+| 9     | Write a program to convert the string from lower case to upper case.| Medium     |      |
+| 10    | Write a program to delete all consonants from a given string.       | Medium     |      |
+| 11    | Write a program to count the different types of characters in given string.| Medium |      |
+| 12    | Write a program to sort the characters of a string.                 | Medium     |      |
+| 13    | Write a program for addition of two matrices.                       | Medium     |      |
+| 14    | Write a program for subtraction of two matrices.                    | Medium     |      |
+| 15    | Write a program for multiplication of two matrices.                 | Medium     |      |
+| 16    | Write a program to find out the sum of diagonal element of a matrix.| Medium     |      |
+
+### System design
+
+| S.No. | Question          | Importance | Link |
+|-------|-------------------|------------|------|
+| 1     | Kafka             | High       |      |
+| 2     | Microservices AWS | High       |      |
+
+### Spring boot
+
+| S.No. | Question                                                      | Importance | Link |
+|-------|---------------------------------------------------------------|------------|------|
+| 1     | Annotations (basic)                                           | High       |      |
+| 2     | Spring security                                               | High       |      |
+| 3     | Rest API from frontend to backend                             | High       |      |
+| 4     | JWT                                                          | High       |      |
+| 5     | Filter & Segmentation in spring security                      | Medium     |      |
+| 6     | Functional interface                                          | Medium     |      |
+| 7     | Spring boot default server, and how to choose different server| Medium     |      |
+| 8     | Profiles and how do we use them                               | Medium     |      |
+| 9     | Bean injection / Dependency Injection                         | High       |      |
+| 10    | How to inject specific bean of same object                    | Medium     |      |
+| 11    | @Primary annotations                                          | Medium     |      |
+| 12    | How to check if service is up or not                          | Medium     |      |
+| 13    | Default port of spring boot                                   | Medium     |      |
+| 14    | Optional class & its use                                      | Medium     |      |
+| 15    | Optional.of vs Optional.ofNullable                            | Medium     |      |
+| 16    | Rest Template                                                 | Medium     |      |
+| 17    | How to enable debugging in spring boot                        | Medium     |      |
+| 18    | MVC                                                          | High       |      |
+
+### Review from people
+
+| S.No. | Question                                                                                                                                                                                                                 | Importance | Link |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------|
+| 1     | Toughest Interview includes basic to advance concepts with real time examples, "Tricky" Questions: These often involve edge cases, subtle differences between similar concepts (== vs. .equals(), String vs. StringBuilder vs. StringBuffer), or questions designed to probe your analytical thinking rather than just recall. Examples include questions about immutable objects, static methods, or custom classloaders. | High       |      |
