@@ -55,6 +55,7 @@
 11. Does java 8 support multiple interfaces?
 12. Can you define a method in the interface?
 13. What is Static Overloading and Dynamic Overloading?
+14. Lambdas
 
 
 ### MySQL
@@ -66,6 +67,7 @@
 5. Explain joins?
 6. What happens if you use inner join with no conditions?
 7. What is Stored Procedure?
+8. 2nd highest salary
 
 ### GIT
 
@@ -73,6 +75,50 @@
 2. Explain a few git commands?
 3. Explain few syntaxes for git commands?
 4. How to create a new branch?
+
+### DSA
+
+1. Swap 2 numbers
+2. Swap 2 numbers without using third number
+3. Convert decimal to binary
+4. Spiral traverse of matrix
+5. Rotate a matrix by 90 degrees
+6. Write a program for swapping of two arrays.
+7. Write a program for swapping of two strings.
+8. Write a program to convert the string from upper case to lower case.
+9. Write a program to convert the string from lower case to upper case.
+10. Write a program to delete all consonants from a given string.
+11. Write a program to count the different types of characters in given string.
+12. Write a program to sort the characters of a string.
+13. Write a program for addition of two matrices.
+14. Write a program for subtraction  of two matrices.
+15. Write a program for multiplication of two matrices.
+16. Write a program to find out the sum of diagonal element of a matrix.
+
+
+### System design
+1. Kafka
+2. Microservices AWS
+
+
+### Spring boot
+1. Annotations (basic)
+2. Spring security
+3. Rest API from frontend to backend
+4. JWT
+5. Filter & Segmentation in spring security
+6. Functional interface
+7. Spring boot default server, and how to choose different server
+8. Profiles and how do we use them
+9. Bean injection
+10. How to inject specific bean of same object
+11. @Primary annotations
+12. How to check if service is up or not
+13. Default port of spring boot
+14. Optional class & its use
+15. Optional.of vs Optional.ofNullable
+16. Rest Template
+
 
 
 ### Review from people
