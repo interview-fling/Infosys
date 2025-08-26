@@ -4,6 +4,7 @@
 
 1. https://www.interviewbit.com/infosys-interview-questions/
 2. https://archive.is/BS0bQ#selection-1455.0-1489.57
+3. https://medium.com/coding-odyssey/infosys-java-developer-interview-6201ed3b4cef
 
 ## Rounds
 
@@ -67,6 +68,9 @@
 | 17 | User Thread & Daemon Thread | 2 |  |
 | 18 | Runnable vs Callable | 3 |  |
 | 19 | Garbage collector | 4 |  |
+| 20 | Interface vs abstract classes | 5 |  |
+| 21 | Can an abstract class implement multiple interfaces and also extend another abstract class simultaneously | 5 |  |
+| 22 | JDK vs JRE vs JVM | 5 |   |
 
 ### MySQL
 
@@ -124,7 +128,7 @@
 
 | S.No. | Question                                                      | Importance | Link |
 |-------|---------------------------------------------------------------|------------|------|
-| 1     | Annotations (basic)                                           | 5       |      |
+| 1     | Annotations component, service, repository, controller, autowired, value, requestmapping, getMapping, PostMapping, PutMapping, DeleteMapping, PathVariable, RequestParam, RequestBody, ResponseBody, Configuration, Bean                                           | 5       |      |
 | 2     | Spring security                                               | 4       |      |
 | 3     | Rest API from frontend to backend                             | 5       |      |
 | 4     | JWT                                                          | 4       |      |
