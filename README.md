@@ -147,7 +147,10 @@
 | 17    | How to enable debugging in spring boot                        | 5     |      |
 | 18    | MVC                                                          | 5       |      |
 | 19    | REST vs SOAP vs WEB                                         | 5       |      |
-| 19    | REST vs GRAPHQL                                        | 2       |      |
+| 20    | REST vs GRAPHQL                                        | 2       |      |
+| 21 | How to use 2 database in spring boot | 3 | https://archive.is/erDd1#selection-839.4-839.109 |
+| 22 | maintain session using JWT, server, client logic | 5 |  |
+| 23 | debug application | 5 |   |
 
 ### Review from people
 
