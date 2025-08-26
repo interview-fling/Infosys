@@ -9,7 +9,7 @@
 
 ### Java Fundamentals + Spring boot + Coding
 
-1. Second maximum in an array
+1. Second maximum in an array 
 2. Java 8 streams - filter operation
 3. Character frequency in string using hashmap
 4. OOPs concept
@@ -56,7 +56,11 @@
 12. Can you define a method in the interface?
 13. What is Static Overloading and Dynamic Overloading?
 14. Lambdas
-15. Static final keywords
+15. Static & final keywords
+16. StringBuilder & StringBuffer
+17. User Thread & Daemon Thread
+18. Runnable vs Callable
+19. Garbage collector
 
 
 ### MySQL
@@ -111,7 +115,7 @@
 6. Functional interface
 7. Spring boot default server, and how to choose different server
 8. Profiles and how do we use them
-9. Bean injection
+9. Bean injection / Dependency Injection
 10. How to inject specific bean of same object
 11. @Primary annotations
 12. How to check if service is up or not
@@ -119,6 +123,8 @@
 14. Optional class & its use
 15. Optional.of vs Optional.ofNullable
 16. Rest Template
+17. How to enable debugging in spring boot
+18. MVC
 
 
 
